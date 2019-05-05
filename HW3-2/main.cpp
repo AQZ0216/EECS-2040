@@ -135,7 +135,7 @@ void LinkedList::deleteStop(string stop)
         }
 
         next = curr->link;
-        while((curr->link) != 0 && (curr->link)->data == curr->data)
+        while(next != 0 && next->data == curr->data)
         {
             curr->link = next->link;
             delete next;
@@ -150,6 +150,8 @@ void LinkedList::Reverse()
     Node *curr = first;
     Node *prev = 0;
     Node *r = 0;
+
+    last = first;
 
     while(curr)
     {
