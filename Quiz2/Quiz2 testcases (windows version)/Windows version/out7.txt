@@ -1,0 +1,56 @@
+Total 164
+ASML REGN 14
+Stop170 BKNG 99
+INTC CMCSA Missing src
+Stop193 ADSK Missing dst
+CELG Stop112 Missing src
+TSLA CTSH Missing dst
+Stop155 Stop112 53
+ASML TMUS Missing dst
+ILMN FOXA Missing dst
+Stop169 Stop189 13
+ADP Stop155 161
+GOOG CTAS Missing both
+MNST Stop187 Missing src
+ULTA Stop138 Missing src
+Stop166 Stop170 103
+EA NFLX Missing src
+NTES SIRI Missing src
+FB PAYX 55
+AMGN AMAT Missing src
+SYMC NTES Missing dst
+Stop118 Stop145 Missing dst
+Stop183 AAL 10
+TTWO AAL 88
+AMGN FISV Missing src
+WDC WLTW Missing dst
+WBA Stop157 Missing src
+Stop114 INTU Missing src
+Stop129 Stop100 Missing both
+SYMC QCOM Missing dst
+DLTR VRSK Missing dst
+Stop188 ADP 144
+MNST Stop157 Missing src
+FOX VRTX 55
+Stop158 MELI 143
+CHTR NTES Missing dst
+LULU Stop169 47
+Stop163 TXN Missing dst
+Stop194 Stop173 Missing dst
+REGN CMCSA 30
+LRCX EBAY 48
+Stop190 BIIB 5
+Stop191 ADSK Missing dst
+Stop115 Stop121 26
+Stop157 Stop174 55
+JBHT Stop147 Missing src
+Stop151 CMCSA 7
+EXPE Stop137 Missing src
+Stop140 JD Missing src
+VRSN AMD 30
+Stop125 FOX Missing src
+Stop116 Stop116 0
+WYNN CMCSA 65
+Stop139 Stop196 91
+SWKS Stop138 Missing src
+Stop180 QCOM Missing dst

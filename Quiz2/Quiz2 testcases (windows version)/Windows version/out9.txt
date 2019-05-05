@@ -1,0 +1,256 @@
+Total 796
+Stop328 Stop976 749
+Stop509 Stop387 92
+Stop202 Stop626 Missing src
+Stop138 Stop958 603
+Stop649 Stop458 Missing src
+Stop668 Stop181 Missing dst
+Stop146 Stop428 Missing both
+Stop720 Stop174 Missing dst
+Stop658 CTSH Missing both
+Stop414 LRCX Missing dst
+Stop739 Stop656 Missing src
+Stop554 Stop735 116
+Stop315 Stop334 Missing both
+Stop257 Stop160 Missing src
+Stop635 Stop507 Missing dst
+Stop546 Stop964 116
+Stop483 MYL Missing dst
+Stop703 AMGN Missing dst
+MNST Stop842 Missing src
+Stop348 Stop683 Missing both
+Stop300 Stop368 Missing dst
+Stop216 Stop446 Missing src
+Stop149 Stop937 668
+Stop621 Stop159 Missing src
+Stop303 Stop387 Missing src
+Stop221 SBUX Missing both
+CDNS Stop775 24
+Stop777 Stop710 629
+Stop462 Stop386 326
+Stop870 KLAC Missing dst
+Stop893 Stop417 283
+XLNX Stop728 Missing src
+Stop824 Stop117 Missing dst
+Stop766 Stop858 307
+Stop959 Stop466 Missing dst
+Stop893 Stop259 225
+Stop186 Stop109 Missing both
+ADSK Stop335 Missing src
+ISRG VRSN Missing src
+Stop495 Stop702 13
+Stop417 Stop716 151
+PEP Stop813 482
+Stop492 Stop874 29
+Stop523 Stop306 40
+Stop260 Stop394 Missing src
+Stop403 Stop506 97
+Stop163 Stop817 Missing src
+Stop234 Stop339 Missing dst
+Stop934 Stop352 166
+Stop549 Stop893 76
+Stop818 Stop442 561
+Stop504 AMAT 314
+Stop904 Stop913 348
+Stop692 Stop302 Missing dst
+Stop944 Stop187 Missing dst
+SWKS Stop361 Missing src
+Stop256 Stop101 301
+Stop526 Stop748 Missing dst
+Stop327 INCY Missing src
+JD Stop939 Missing src
+Stop796 Stop809 Missing both
+Stop445 Stop311 Missing dst
+Stop626 Stop680 382
+WYNN Stop912 Missing src
+ADBE Stop552 Missing src
+Stop157 Stop203 Missing both
+Stop346 Stop661 Missing src
+Stop560 Stop250 305
+Stop927 Stop252 Missing src
+Stop553 Stop871 249
+Stop440 Stop557 379
+Stop584 FAST Missing dst
+FOXA Stop111 Missing both
+Stop148 Stop337 Missing src
+Stop513 Stop554 652
+Stop277 Stop661 Missing src
+Stop363 ADP Missing dst
+Stop324 Stop342 Missing src
+Stop754 Stop326 80
+Stop254 Stop139 23
+Stop878 Stop764 349
+Stop342 Stop225 410
+Stop777 Stop902 615
+Stop827 Stop704 Missing both
+Stop154 Stop380 Missing dst
+Stop575 Stop946 572
+Stop290 Stop160 249
+Stop994 Stop300 362
+Stop623 Stop142 Missing both
+Stop990 Stop488 Missing dst
+Stop696 Stop619 Missing src
+Stop149 Stop412 567
+Stop693 Stop825 704
+Stop754 Stop448 Missing dst
+Stop151 Stop360 154
+Stop587 Stop382 Missing dst
+Stop124 Stop929 Missing src
+Stop959 Stop902 529
+Stop183 Stop786 256
+Stop606 Stop337 681
+Stop167 Stop534 230
+Stop636 Stop809 Missing dst
+ISRG Stop630 Missing src
+Stop109 Stop669 Missing src
+Stop125 Stop451 Missing src
+Stop157 Stop173 Missing both
+MELI Stop658 Missing dst
+Stop585 Stop764 747
+Stop483 Stop339 Missing dst
+Stop564 Stop986 711
+HAS Stop503 359
+Stop368 Stop176 Missing src
+Stop432 Stop327 Missing both
+Stop430 Stop967 Missing src
+Stop466 AMGN Missing both
+Stop304 Stop633 Missing src
+Stop571 Stop292 385
+Stop794 Stop617 Missing dst
+Stop275 Stop255 Missing dst
+Stop638 Stop400 121
+Stop707 Stop147 94
+Stop573 Stop777 754
+Stop157 Stop159 Missing src
+Stop893 Stop992 159
+Stop850 Stop457 301
+Stop978 Stop902 617
+Stop960 Stop347 Missing dst
+Stop431 Stop744 325
+ROST Stop861 Missing src
+Stop711 Stop492 712
+Stop898 Stop368 Missing dst
+Stop477 Stop821 246
+Stop660 Stop271 684
+Stop790 Stop287 504
+Stop879 Stop780 313
+Stop687 Stop586 787
+Stop279 Stop613 Missing src
+Stop363 Stop436 Missing dst
+Stop124 Stop609 Missing src
+Stop428 Stop974 Missing src
+BIDU Stop759 Missing src
+Stop229 CELG Missing both
+Stop458 Stop660 342
+Stop771 Stop484 411
+Stop873 Stop835 696
+Stop329 Stop124 Missing both
+Stop203 Stop158 Missing src
+Stop945 Stop215 Missing dst
+Stop782 ULTA Missing dst
+Stop503 Stop661 271
+Stop868 Stop542 Missing dst
+Stop247 Stop500 Missing src
+Stop155 Stop962 Missing src
+Stop936 Stop631 451
+Stop571 Stop717 28
+Stop958 Stop638 466
+Stop476 Stop187 Missing dst
+NTES Stop934 Missing src
+Stop199 Stop140 Missing dst
+Stop770 UAL 771
+Stop327 Stop451 Missing src
+Stop196 Stop882 525
+Stop610 Stop494 385
+AMD Stop392 96
+Stop582 Stop953 Missing both
+MCHP Stop802 Missing src
+Stop847 Stop652 512
+Stop654 Stop355 Missing dst
+Stop614 Stop591 Missing both
+Stop986 Stop538 403
+Stop660 Stop944 47
+Stop528 Stop488 Missing dst
+Stop483 Stop545 788
+Stop422 PYPL Missing dst
+AMGN Stop544 Missing src
+Stop107 Stop365 Missing dst
+Stop996 Stop655 429
+Stop247 Stop606 Missing src
+Stop149 Stop697 623
+Stop350 WDC 713
+WYNN Stop403 Missing src
+Stop238 Stop850 200
+MYL Stop892 Missing src
+Stop205 EXPE Missing both
+Stop835 Stop191 Missing dst
+Stop911 Stop495 533
+Stop488 Stop439 Missing src
+Stop983 Stop323 329
+Stop336 Stop757 4
+Stop358 Stop726 Missing src
+Stop302 Stop465 Missing both
+JBHT Stop650 Missing src
+Stop120 Stop690 Missing dst
+Stop608 Stop622 247
+Stop388 Stop958 450
+ADSK Stop390 Missing both
+Stop361 Stop295 168
+Stop240 Stop768 120
+Stop540 Stop797 427
+Stop141 Stop375 520
+Stop341 MCHP Missing dst
+Stop223 Stop829 Missing src
+Stop844 Stop558 Missing dst
+Stop152 Stop533 Missing src
+Stop316 Stop510 359
+Stop259 Stop970 4
+Stop327 Stop350 Missing src
+Stop972 Stop800 43
+ADI Stop580 Missing dst
+Stop774 Stop780 180
+Stop538 Stop831 563
+Stop171 Stop899 Missing src
+Stop479 Stop763 540
+MXIM MXIM Missing both
+Stop561 Stop512 236
+Stop746 Stop254 93
+Stop917 Stop969 Missing src
+WDC Stop762 716
+Stop528 Stop587 26
+Stop295 Stop196 35
+Stop450 Stop554 Missing src
+Stop166 Stop129 Missing dst
+Stop256 Stop138 481
+Stop929 Stop296 37
+Stop718 MYL Missing dst
+Stop429 Stop608 70
+Stop887 Stop600 536
+Stop507 Stop718 Missing src
+Stop715 Stop878 793
+Stop737 Stop628 498
+Stop390 Stop835 Missing src
+Stop882 Stop308 552
+Stop805 Stop317 555
+Stop422 Stop685 72
+Stop257 CERN Missing both
+Stop881 Stop707 117
+Stop623 Stop399 Missing both
+Stop836 Stop879 384
+Stop889 Stop118 Missing dst
+Stop527 Stop607 113
+Stop173 Stop956 Missing src
+Stop215 Stop412 Missing src
+Stop908 ADP Missing dst
+Stop130 Stop976 Missing src
+Stop304 Stop219 Missing src
+Stop956 ISRG Missing dst
+MYL Stop839 Missing src
+Stop706 Stop212 422
+Stop508 Stop128 Missing dst
+Stop897 Stop765 364
+Stop197 Stop130 Missing both
+Stop472 Stop172 Missing dst
+Stop529 Stop661 701
+Stop403 Stop418 34
+Stop131 Stop283 Missing src
